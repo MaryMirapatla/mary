@@ -1,0 +1,4 @@
+# mary
+
+Welcome to my learning
+Starting with GIT now
